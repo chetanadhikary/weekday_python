@@ -9,5 +9,10 @@
 		<li> Code examples and list of basic object dataypes in python is included in   Object_Datatypes.ipynb</li>
 		<li> Numerical datatype object introduction and example is included in Object_Datatypes.ipynb</li>
 	</ul>
+	<h2> Day 2 <h2>
+	<ul>
+	<li> Demo on Text Datatype in Text_Datatype.ipynb file </li>
+	<li> Demo on Lists Datatype in List_Datatype.ipynb file</li> 
+	</ul>
 </html>
 
