@@ -12,7 +12,11 @@
 	<h2> Day 2 <h2>
 	<ul>
 	<li> Demo on Text Datatype in Text_Datatype.ipynb file </li>
+	</ul>
+	<h2> Day 3 <h2>
+	<ul>
 	<li> Demo on Lists Datatype in List_Datatype.ipynb file</li> 
+	<li> Demo on Tuples Datatype in Tuple_Datatype.ipynb file </li>
 	</ul>
 </html>
 
