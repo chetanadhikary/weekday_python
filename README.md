@@ -15,8 +15,7 @@
 	</ul>
 	<h2> Day 3 </h2>
 	<ul>
-	<li> Demo on Lists Datatype in List_Datatype.ipynb file</li> 
-	
+	<li> Demo on Lists Datatype in List_Datatype.ipynb file</li> 	
 	</ul>
 	<h2> Day 4 </h2>
 	<ul>
