@@ -19,7 +19,10 @@
 	</ul>
 	<h2> Day 4 </h2>
 	<ul>
-	<li> Demo on Dictionary Datatype in Dictionary_Datatype.ipynb file</li>
+	<li> Demo on Dictionary Datatype in Dictionary_Datatype.ipynb file</li>	
+	</ul>
+	<h2> Day 5 </h2>
+	<ul>
 	<li> Demo on Tuples Datatype in Tuple_Datatype.ipynb file </li>
 	</ul>
 </html>
