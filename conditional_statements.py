@@ -68,12 +68,42 @@
 ##    You need to check for the character '@'
 ## print the username of the the account
 
-email = input('Enter your email ID')
-if '@' in email:
-    username = email.split('@')[0]
-    print(f'The user name is found to be {username}')
-else:
-    print('Email is not valid')
+##email = input('Enter your email ID')
+##if '@' in email:
+##    username = email.split('@')[0]
+##    print(f'The user name is found to be {username}')
+##else:
+##    print('Email is not valid')
+
+
+
+### Lists
+
+# Write a program which checks the length of the list
+# and adds to the list if its within some range
+## The user to be giving the upper limit for the range
+
+##new_item = input('Enter an item to be added to the existing list')
+##upper_limit = int(input('Enter the upper limit of the list'))
+##lst_items = ['students',1,2,3,'chetan']
+##if len(lst_items) < upper_limit :
+##    lst_items.append(new_item)
+##    print(lst_items)
+##else :
+##    print('Sufficient quantity reached')
+##    print(lst_items)
+
+
+## Write a program to get first n top/bottom numbers depending on the user request after adding the
+## user number
+
+## Write a program and check if the key is present ,
+## if present , just print the value
+## Else you need create the with a default value
+
+## Write a program to create a dictionary for even and odd numbers
+
+
 
 
 
